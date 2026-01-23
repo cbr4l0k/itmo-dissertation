@@ -11,5 +11,10 @@
   supervisor: [Коржук Виктория Михайловна, ITMO University, Faculty of
   Secure Information Technologies, associate professor (qualification "full
   associate professor")],
-  bib-file: "references.bib",
+  bib-file: "/assets/references.bib",
 )
+
+#include "chapters/chapter_01.typ"
+#include "chapters/chapter_02.typ"
+#include "chapters/chapter_03.typ"
+#include "chapters/chapter_04.typ"
