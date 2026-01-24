@@ -58,7 +58,7 @@ Platform integration demands processing enormous volumes with minimal latency @s
 
 Humans remain the "first line of defense" because AI detection has clear limitations @somoray_human_2025. While research advances, practical deployment relies substantially on human judgment. Regional restrictions and proprietary limitations prevent comprehensive evaluation of all generation methods @ma_your_2026.
 
-= Chapter 4 Summary
+#heading(numbering: none)[#h(0.5em)Chapter 4 Summary]
 
 Benchmark accuracy deceives. A detector achieving 99% on balanced test data becomes operationally useless when deepfakes constitute 0.3% of real traffic—332 false positives for every true detection. The base-rate fallacy transforms impressive laboratory performance into deployment failure. False positives damage legitimate creators and erode trust in detection itself. False negatives enable the frauds, defamations, and evidence fabrications that motivate detection research in the first place.
 

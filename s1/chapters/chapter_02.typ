@@ -46,7 +46,7 @@ Object permanence characterizes authentic video @chang_how_2025 @song_learning_2
 
 Style and feature consistency reveal manipulation when synthesis fails to maintain uniform visual characteristics @pei_deepfake_2024. Mismatched color palettes, inconsistent noise, varying detail levels indicate regions of different origin. Decoupling identity from manipulation artifacts improves detection generalization @diwan_systematic_2024.
 
-= Chapter 2 Summary
+#heading(numbering: none)[#h(0.5em)Chapter 2 Summary]
 
 Forensic analysis draws from multiple signal domains, each revealing different manipulation traces. Spatial artifacts—blending boundaries, noise anomalies, compression inconsistencies—expose tampering within individual frames. GANs leave checkerboard patterns; diffusion models produce distinct signatures. Temporal analysis catches what spatial examination misses: the jitter of frame-by-frame processing, motion vector discontinuities from inserted or deleted frames, flickering that betrays independent rather than coherent generation.
 

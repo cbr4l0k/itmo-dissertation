@@ -14,7 +14,9 @@
   bib-file: "/assets/references.bib",
 )
 
+#include "chapters/intro.typ"
 #include "chapters/chapter_01.typ"
 #include "chapters/chapter_02.typ"
 #include "chapters/chapter_03.typ"
 #include "chapters/chapter_04.typ"
+#include "chapters/conclusion.typ"

@@ -48,7 +48,7 @@ H.264 standardization ensures consistent compression across training data, elimi
 
 Face restoration techniques can remove manipulation artifacts, functioning as anti-forensic processing @melnik_face_2024. Compression-aware training with augmented data improves real-world robustness @ali_interframe_2025 @pei_deepfake_2024.
 
-= Chapter 3 Summary
+#heading(numbering: none)[#h(0.5em)Chapter 3 Summary]
 
 Detection architectures have progressed through three generations. Frame-level CNNs extract spatial features—blending artifacts, noise anomalies, compression traces—but discard temporal information entirely. A manipulation that looks plausible frame-by-frame can still violate temporal coherence. RNNs, LSTMs, and transformers address this gap by modeling sequence dependencies. They catch flickering, motion discontinuities, and identity drift that single-frame analysis misses.
 

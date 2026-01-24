@@ -32,7 +32,7 @@ Early methods processed frames independently, producing flickering and motion di
 
 Motion analysis through optical flow detects temporal anomalies—unnatural relative motion, impossible velocities, apparent movement in static regions @chang_how_2025 @ali_interframe_2025. Even advanced systems produce subtle inconsistencies: minute flickering, marginal physics violations. Generation improves continuously. Detection must keep pace.
 
-= Chapter 1 Summary
+#heading(numbering: none)[#h(0.5em)Chapter 1 Summary]
 
 Video deepfakes encompass far more than face swaps. The taxonomy includes identity replacement, motion transfer, attribute modification, and full scene generation—each with distinct technical characteristics and forensic implications. Face-centric manipulations dominate research attention because faces carry trust, but object manipulation and temporal tampering enable equally consequential evidence fabrication.
 
