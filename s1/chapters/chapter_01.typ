@@ -1,6 +1,6 @@
 #heading[Chapter 1: Deepfake Video Editing and Manipulation Techniques]
 
-Video manipulation has transformed dramatically. What once required professional editors and weeks of work now happens in minutes through AI. The term "deepfake" originally described AI face swaps but has expanded to cover all neural network-based video manipulation. GANs dominated early work; diffusion models now produce even more convincing results with different artifact signatures @pei_deepfake_2024 @song_learning_2025.
+Video manipulation has transformed dramatically. What once required professional editors and weeks of work now happens in minutes through AI. The term "deepfake" originally described AI face swaps but has expanded to cover all neural network-based video manipulation. GANs dominated early work; diffusion models now produce even more convincing results with different artifact signatures @pei_deepfake_2024 @song_learning_2025
 
 == Types of Video Deepfakes
 
