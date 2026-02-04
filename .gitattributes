@@ -1,1 +1,6 @@
-*.bib linguist-generated=true
+*.bib linguist-generated
+*.pdf linguist-generated
+out/** linguist-generated
+build/** linguist-generated
+
+*.typ linguist-language=Typst
